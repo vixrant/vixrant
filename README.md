@@ -59,8 +59,6 @@
   <b>And lots more!</b>
 </div>
 
-<hr>
-
 <div align="center">
   <h2>
     🧶
