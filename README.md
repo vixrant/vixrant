@@ -1,6 +1,5 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/vixrant/vixrant/master/cat.gif" width="200" height="200">
-	<h1>🅅🄸🅇🅁🄰🄽🅃</h1>	
 </div>
 
 <div align="center">
