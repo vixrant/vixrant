@@ -11,7 +11,7 @@
 <div align="center">
   <h2>
     🧶
-    <a href="https://www.vgajria.com">vgajria.com</a>
+    <a href="https://vixrant.github.io">vixrant.github.io</a>
   </h2>
 
   <a href="https://www.linkedin.com/in/vikrantgajria">
